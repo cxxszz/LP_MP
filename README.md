@@ -21,7 +21,7 @@ Optimization techniques include
 
 
 ## Installation
-Type `git clone https://github.com/pawelswoboda/LP_MP.git` for downloading, then `cd LP_MP` and `git submodule update --init` for downloading dependencies` and finally `cmake` for building.
+Type `git clone https://github.com/cxxszz/LP_MP.git` for downloading, then `cd LP_MP` and `git submodule update --init` for downloading dependencies` and finally `cmake .` for building.
 
 Prerequisites:
 * Clang 5.0 or GCC 7.0 upwards for C++17 compatibility.
